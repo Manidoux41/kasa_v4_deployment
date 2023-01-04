@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.adaccc24.css",
+    "main.js": "/static/js/main.5173e80b.js",
+    "static/media/image1.jpg": "/static/media/image1.053687a54587bf187cfc.jpg",
+    "static/media/logo.svg": "/static/media/logo.a6101328193bb3191cbcb50c120ec0d1.svg",
+    "static/media/logo-footer.svg": "/static/media/logo-footer.ee689fd9409d1b5a898b4247819d8a00.svg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.adaccc24.css",
+    "static/js/main.5173e80b.js"
+  ]
+}
